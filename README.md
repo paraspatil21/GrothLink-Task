@@ -72,5 +72,5 @@ python car_purchase_prediction.py
 ## **Author**
 
 - **Your Name**
-- Email: your.email@example.com
+- Email: parasspatil10@gmail.com
 - GitHub: [your-profile](https://github.com/your-profile)
