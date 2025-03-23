@@ -73,4 +73,4 @@ python car_purchase_prediction.py
 
 - **Your Name**
 - Email: parasspatil10@gmail.com
-- GitHub: [your-profile]([https://github.com/your-profile](https://github.com/paraspatil21))
+- GitHub: (https://github.com/paraspatil21)
